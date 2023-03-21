@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" href="css/all.css">
+</head>
+
+<body>
+    <div class="image">
+        <img src="image/Snapchat-90435356-removebg-preview (1).png">
+        <h2> Jawad Aziz </h2>
+        <a href="mailto:jawadbaloch136@gmail.com">jawadbaloch136@gmail.com</a><br>
+        <a href="tel:0300-440193">0300-4401937</a>
+        <hr>
+    </div>
+    <br>
+    <div>
+        <h3>Biography</h3>
+        <p>
+            Muhammad Jawad Aziz has completed his Bs in Electrical Engineering Technology from The University Of Lahore, Pakistan in 2024. Previously, he did his DAE from Malaysian Institute of Technology Lahore, in 2019. 
+        </p>
+    </div><br>
+    <div>
+        <ul>
+            <h3><li>Publications</li></h3>
+            <ul>
+                <li>(DA-DOPF): A Day Ahead Dynamic Optimal Power Flow with Renewable Energy Integration in Smart Grid</li>
+                <li>A Comparison of Wireless Standards in IoT for Indoor Localization Using LoPy</li>
+                <li>An Incentive Based Dynamic Pricing in Smart Grid: A Customer’s Perspective</li>
+            </ul>
+        </ul>
+
+    </div>    
+    <div>
+        <table style="width:100%">
+            <tr>
+                <th>Award/Description</th>
+                <th>Organization</th>
+                <th>Year</th>
+            </tr>
+            <tr>
+                <td>Research Productivity Award</td>
+                <td>University of Lahore</td>
+                <td>2021</td>
+            </tr>
+    <div>
+        <div>
+            <table style="width:100%">
+                <tr>
+                    <th>Memberships/Degree</th>
+                    <th>Board/University</th>
+                    <th>Year</th>
+                </tr>
+                <tr>
+                    <td>BS Electrical Engineering Technology</td>
+                    <td>University of Lahore</td>
+                    <td>2023</td>
+                </tr>
+            </table>
+            </div><br>
+            <div>
+                <ul>
+                    <li><h3>Project Supervisor</h3></li>
+                    </ul>
+                <table style="width:100%">
+                    <tr>
+                        <th>Title</th>
+                        <th>Board/University</th>
+                        <th>Year</th>
+                    </tr>
+                    <tr>
+                        <td>GSM/GPS based automatic rescue system</td>
+                        <td>University of Lahore</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td>3 KW variable frequency drive inverter design</td>
+                        <td>University of Lahore</td>
+                        <td>2022</td>
+                    </tr>
+                    <tr>
+                        <td>Cost efficient method of power system loss calcula</td>
+                        <td>University of Lahore</td>
+                        <td>2021</td>
+                    </tr>
+                </table>
+
+            </div>
+            <div>
+                <ul>
+                    <li><h3>Services</h3></li>
+                    </ul>
+                 <table style="width:100%">
+                    <tr>
+                        <th>From To</th>
+                        <th>Organization</th>
+                        <th>Job Description</th>
+                    </tr>
+                    <tr>
+                        <td>29 Oct 2019 - 14 Feb 2020</td>
+                        <td>University of Lahore</td>
+                        <td>Student</td>
+                    </tr>
+                    <td>29 Oct 2020 - 14 Feb 2023</td>
+                    <td>University of Lahore</td>
+                    <td>Student</td>
+                </tr>
+                 </table>
+
+            </div>
+            <div>
+                <ul>
+                    <li><h3>Language & Skills</h3></li>
+                    </ul>
+                 <table style="width:100%">
+                    <tr>
+                        <th>Language</th>
+                        <th>Skills</th>
+                        
+                    </tr>
+                    <tr>
+                        <td>English</td>
+                        <td>Fluent</td>
+                    </tr>
+                    <tr>
+                        <td>Urdu</td>
+                        <td>Fluent</td>
+                    </tr>
+                 </table>
+
+            </div>
+            <div>
+                <ul>
+                    <li><h3>Active Collaborations</h3></li>
+                    </ul>
+                 <table style="width:100%">
+                    <tr>
+                        <th>From</th>
+                        <th>Type</th>
+                        <th>Country</th>
+                        <th>Organization</th>
+                        
+                    </tr>
+                    <tr>
+                        <td>2019-2021</td>
+                        <td>Research</td>
+                        <td>Pakistan</td>
+                        <td>UOL</td>
+                    </tr>
+                 </table>
+
+            </div>
+            <div>
+                <ul>
+                    <li><h3>ExtraCurricular Activity</h3></li>
+                    </ul>
+                    <table style="width:100%">
+                        <tr>
+                            <th>Hobbies</th>
+                            <th>Interest</th>
+                        </tr>
+                        <tr>
+                            <td>Cricket</td>
+                            <td>Politics</td>
+                        </tr>
+            </div>
+        <table style="width:100%">
+            <tr>
+                <th>Experience/ Company Name</th>
+                <th>Position</th>
+                <th>Year Of Joining</th>
+            </tr>
+            
+            <tr>
+                <td>Coding Pixel</td>
+                <td>Internee</td>
+                <td>2023</td>
+            </tr>
+        </table>
+    </div>
+    <br>
+    <div>
+        <table style="width:100%">
+            <tr>
+                <th>Education</th>
+                <th>Name of Institute</th>
+                <th>Year of Complete</th>
+            </tr>
+            <tr>
+                <td>Bs EET</td>
+                <td>University of Lahore</td>
+                <td>2024</td>
+            </tr>
+            <tr>
+                <td>DAE</td>
+                <td>MIT</td>
+                <td>2019</td>
+            </tr>
+            <tr>
+                <td>Matric</td>
+                <td>Mansoorah Model High School</td>
+                <td>2014</td>
+            </tr>
+        </table>
+    </div>
+    <br>
+    <div>
+        <h2>Profile</h2>
+        <p>I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team
+            worker and adaptable to all challenging situations. I am able to work well both in a team environment as
+            well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.</p>
+    </div>
+    <br>
+    <div>
+        <table style="width: 100%;">
+            <tr>
+                <th>Experience</th>
+                <th>Contact</th>
+            </tr>
+            <tr>
+                <td style="text-align: center;">Company Name</td>
+                <td style="text-align: center;">Addrs/Tel/Email</td>
+            </tr>
+            <tr>
+                <td>Coding Pixel</td>
+                <td>johar town</td>
+            </tr>
+            <tr>
+                <td>Coding Pixel</td>
+                <td>03004401937</td>
+            </tr>
+            <tr>
+                <td>Coding Pixel</td>
+                <td>jawadbaloch136@gmail.com</td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <ul>
+            <li>Skills</li>
+            <ul>
+                <li>
+                    Adobe Illustrator
+                </li>
+                <li>Adobe Indesign</li>
+            </ul>
+        </ul>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(115, 190, 190);
+    
+}
+.image img{
+    height: 250px;
+    width: 180px;
+    padding: 5px;
+}
+table, th, td {
+border:no-border;
+text-align: center;
+padding: 10px;
+margin: 5px;
+}
+th{
+    text-align: center;
+    width: 33%;
+    background-color: burlywood;
+}
+p{
+    padding: 10px;
+}
+a {
+    background-color: darkgray;
+    color: black;
+}
+h2 {
+    background-color:gray;
+    padding: 10px;
+}
+h3{
+    background-color:floralwhite;
+    padding: 4px;
+}
